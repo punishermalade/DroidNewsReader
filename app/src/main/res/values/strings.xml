@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">News Reader</string>
+
+    <string name="dialog_loading_topstories_title">Loading top stories</string>
+    <string name="dialog_loading_topstories_message">Wait while loading the top stories</string>
+
+    <string name="dialog_loading_singlestory_title">Loading the story</string>
+    <string name="dialog_loading_singlestory_message">Wait while retrieving the story</string>
+
+    <string name="dialog_loading_list_error_title">Cannot load top stories</string>
+    <string name="dialog_loading_list_error_message">An error occured while loading the top stories. Please try again later.</string>
+
+    <string name="dialog_url_error_title">Invalid URL</string>
+    <string name="dialog_url_error_message">The URL for this story is not valid</string>
+
+    <string name="news_list_single_url_button">Follow the link</string>
+    <string name="news_list_score_label">" pts"</string>
+
+    <string name="news_list_header_no_comment">No comments</string>
+
+    <string name="default_empty_text">--</string>
+    <string name="default_author_sep">" - "</string>
+
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="comments">
+        <item quantity="zero">No comments</item>
+        <item quantity="one">Last comment</item>
+        <item quantity="other">Last %d comments</item>
+    </plurals>
+    </resources>
